@@ -7,8 +7,8 @@ A Python-based virtual steering system that uses real-time hand tracking through
 - 🖐️ Real-time hand tracking using a webcam
 - 🎮 Virtual steering using hand movements
 - ➡️ Keyboard-based left and right steering controls
-- 👍 Right-hand thumbs-up gesture for acceleration
-- 👈 Left-hand thumbs-up gesture for braking
+- 👍 Right-hand thumbs-down gesture for acceleration
+- 👈 Left-hand thumbs-down gesture for braking
 - ⚡ Smooth steering control for a better gaming experience
 
 ## 🛠️ Technologies Used
